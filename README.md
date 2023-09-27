@@ -1,6 +1,11 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙆𝙖𝙡𝙤𝙮𝙖𝙣 𝙆𝙪𝙡𝙤𝙫
 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/__KaloyankerR) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11755510) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@kaloyan9301) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11755510)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaloyan-kulov-91899518b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulovkaloyan@gmail.com)
+[![My Personal Website](https://img.shields.io/badge/My%20Website-Green?style=for-the-badge&color=4CAF50)](https://kaloyan-portfolio.web.app/)
+
+
 
 𝑰 ❤️ 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
@@ -8,9 +13,6 @@
 
 :trollface: 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙪𝙨𝙚 𝙩𝙖𝙗𝙨 𝙤𝙫𝙚𝙧 𝙨𝙥𝙖𝙘𝙚𝙨
 
-
-## 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙒𝙚𝙗𝙨𝙞𝙩𝙚
-You can check my [personal website](https://kaloyan-portfolio.web.app/).
 
 ## 𝙈𝙮 𝙏𝙚𝙘𝙠 𝙎𝙩𝙖𝙘𝙠
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -39,9 +41,10 @@ You can check my [personal website](https://kaloyan-portfolio.web.app/).
 
 
 ## 𝙎𝙩𝙖𝙩𝙨
-![](https://github-readme-stats.vercel.app/api?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KaloyankerR&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<b>𝙍𝙖𝙣𝙙𝙤𝙢 𝙙𝙚𝙫 𝙟𝙤𝙠𝙚</b><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaloyankerR&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br><br><b>𝙍𝙖𝙣𝙙𝙤𝙢 𝙙𝙚𝙫 𝙟𝙤𝙠𝙚</b><br>
+  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+</div>
