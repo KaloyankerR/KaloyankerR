@@ -15,29 +15,32 @@
 
 
 ## 𝙈𝙮 𝙏𝙚𝙘𝙠 𝙎𝙩𝙖𝙘𝙠
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat-square&logo=express&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34.svg?style=flat-square&logo=react&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%230089BE.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+[![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
-![Prettier](https://img.shields.io/badge/-Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![NoSQL](https://img.shields.io/badge/NoSQL-%230089BE?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Flask](https://img.shields.io/badge/flask-%23000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
+[![Django](https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
+[![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-%23623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+
 
 
 ## 𝙎𝙩𝙖𝙩𝙨
