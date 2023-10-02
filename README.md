@@ -6,13 +6,11 @@
 [![My Personal Website](https://img.shields.io/badge/My%20Website-Green?style=for-the-badge&color=4CAF50)](https://kaloyan-portfolio.web.app/)
 
 
-
 𝑰 ❤️ 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 🐍 𝙋𝙮𝙩𝙝𝙤𝙣 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 | 🍎 𝙍𝙚𝙖𝙘𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 💪🏻 𝙂𝙮𝙢 𝙧𝙖𝙩
 
 :trollface: 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙪𝙨𝙚 𝙩𝙖𝙗𝙨 𝙤𝙫𝙚𝙧 𝙨𝙥𝙖𝙘𝙚𝙨
-
 
 ## 𝙈𝙮 𝙏𝙚𝙘𝙠 𝙎𝙩𝙖𝙘𝙠
 [![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -40,8 +38,6 @@
 [![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-%23623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-
-
 
 ## 𝙎𝙩𝙖𝙩𝙨
 <div align="center">
