@@ -1,17 +1,19 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙆𝙖𝙡𝙤𝙮𝙖𝙣 𝙆𝙪𝙡𝙤𝙫
 
+<!-- Contact -->
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11755510)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaloyan-kulov-91899518b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulovkaloyan@gmail.com)
 [![My Personal Website](https://img.shields.io/badge/My%20Website-Green?style=for-the-badge&color=4CAF50)](https://kaloyan-portfolio.web.app/)
 
-
+<!-- Bio -->
 𝑰 ❤️ 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
 🐍 𝙋𝙮𝙩𝙝𝙤𝙣 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩 | 🍎 𝙍𝙚𝙖𝙘𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 💪🏻 𝙂𝙮𝙢 𝙧𝙖𝙩
 
 :trollface: 𝙁𝙪𝙣 𝙛𝙖𝙘𝙩: 𝙄 𝙪𝙨𝙚 𝙩𝙖𝙗𝙨 𝙤𝙫𝙚𝙧 𝙨𝙥𝙖𝙘𝙚𝙨
 
+<!-- Stack -->
 ## 𝙈𝙮 𝙏𝙚𝙘𝙠 𝙎𝙩𝙖𝙘𝙠
 [![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -41,8 +43,11 @@
 
 ## 𝙎𝙩𝙖𝙩𝙨
 <div align="center">
+  <!-- Profile overall stats/mark -->
   <img src="https://github-readme-stats.vercel.app/api?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/><br/>
+  <!-- Commits streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaloyankerR&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
+  <!-- Most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   <br><br><b>𝙍𝙖𝙣𝙙𝙤𝙢 𝙙𝙚𝙫 𝙟𝙤𝙠𝙚</b><br>
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
