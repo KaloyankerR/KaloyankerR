@@ -48,7 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/><br/>
   -->
   <!-- Commits streak -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaloyankerR&theme=buefy-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaloyankerR&theme=buefy-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)
+
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaloyankerR&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
   <!-- Most used languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
