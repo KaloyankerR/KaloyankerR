@@ -44,7 +44,9 @@
 ## 𝙎𝙩𝙖𝙩𝙨
 <div align="center">
   <!-- Profile overall stats/mark -->
+  <!-- 
   <img src="https://github-readme-stats.vercel.app/api?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/><br/>
+  -->
   <!-- Commits streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaloyankerR&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
   <!-- Most used languages -->
