@@ -43,16 +43,19 @@
 
 ## 𝙎𝙩𝙖𝙩𝙨
 <div align="center">
-  <!-- Profile overall stats/mark -->
+  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=kaloyankerr&theme=transparent&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaloyankerr&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaloyankerr&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+  
 </div>
 
-  <!-- Memes -->
 ### 😂 Random Dev Meme
+<div align="center">
+
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kaloyankerr&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+</div>
