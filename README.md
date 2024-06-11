@@ -44,19 +44,15 @@
 ## 𝙎𝙩𝙖𝙩𝙨
 <div align="center">
   <!-- Profile overall stats/mark -->
-  <!-- 
-  <img src="https://github-readme-stats.vercel.app/api?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/><br/>
-  -->
-  <!-- Commits streak -->
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KaloyankerR&theme=buefy-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)
-
-  <!-- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaloyankerR&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
-  -->
-  
-  <!-- Most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaloyankerR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <br><br><b>𝙍𝙖𝙣𝙙𝙤𝙢 𝙙𝙚𝙫 𝙟𝙤𝙠𝙚</b><br>
-  <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=kaloyankerr&theme=transparent&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaloyankerr&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
+
+  <!-- Memes -->
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=kaloyankerr&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
