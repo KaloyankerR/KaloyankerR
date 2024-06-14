@@ -4,7 +4,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11755510)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaloyan-kulov-91899518b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulovkaloyan@gmail.com)
-[![My Personal Website](https://img.shields.io/badge/My%20Website-Green?style=for-the-badge&color=4CAF50)](https://kaloyan-portfolio.web.app/)
+[![My Personal Website](https://img.shields.io/badge/My%20Website-Green?style=for-the-badge&color=4CAF50)](https://kaloyankulov.netlify.app/)
 
 <!-- Bio -->
 𝑰 ❤️ 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
