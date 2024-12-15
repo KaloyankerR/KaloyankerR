@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaloyan-kulov)
-[![Website](https://img.shields.io/badge/-Portfolio-8a2be2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaloyankulov.com)
+[![Website](https://img.shields.io/badge/-Portfolio-8a2be2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaloyankulov.netlify.app/)
 [![GitHub](https://img.shields.io/badge/-GitHub-8b0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaloyankerr)
 
 </div>
