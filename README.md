@@ -1,54 +1,50 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙆𝙖𝙡𝙤𝙮𝙖𝙣 𝙆𝙪𝙡𝙤𝙫 👋  
-**🎯 Java Developer** | **🧠 AI Enthusiast** | **🌍 Eindhoven, Netherlands**
+# 👋 Hi, I'm Kaloyan!
+👨🏻‍💻 Software Engineering & AI student sharing my journey and learnings in tech<br/>
+🇧🇬 Originally from Sofia, Bulgaria, currently studying in Eindhoven, Netherlands<br/>
+🎨 Passionate about building creative and impactful AI projects, like book recommendation systems and heart disease prediction tools<br/>
+🌟 #learninginpublic by exploring new technologies and sharing insights<br/>
+💭 Currently diving into backend development, cloud technologies, and data analysis!<br/>
 
----
-
-## 🌐 **Find Me Online**  
-
+# 🌐 Connect with Me
 <div align="center">
-<a href="https://stackoverflow.com/users/11755510"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-<a href="https://www.linkedin.com/in/kaloyan-kulov-91899518b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:kulovkaloyan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://kaloyankulov.netlify.app/"><img src="https://img.shields.io/badge/My%20Website-Green?style=for-the-badge&color=4CAF50" alt="Portfolio"></a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaloyan-kulov)
+[![Website](https://img.shields.io/badge/-Portfolio-8a2be2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaloyankulov.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-8b0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaloyankerr)
+
 </div>
 
----
+<!-- GitHub stats -->
+<div align="center">
 
-## 🛠️ **Tech Stack**  
+![kaloyankerr's Stats](https://github-readme-stats.vercel.app/api?username=kaloyankerr&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-### 🚀 Programming Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=white)
+![kaloyankerr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaloyankerr&theme=radical&hide_border=true)
 
-### 🌐 Frameworks and Libraries  
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badge&logo=react&logoColor=white)
+</div>
 
-### 📂 Databases  
-![SQL](https://img.shields.io/badge/SQL-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/NoSQL-%230089BE?style=for-the-badge&logo=mongodb&logoColor=white)
+# 🎯 Hobbies & Interests
+- Running and training to clear my mind.
+- Reading novels and exploring bookstores.
+- Watching movies and writing thoughtful reviews.
+- Exploring AI's potential for social good, like mental health awareness and environmental issues.
 
-### 🧰 Tools and Platforms  
-![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-8b0000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-8a2be2?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-8b0000?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-8a2be2?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react-8b0000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-8a2be2?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-8b0000?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-8a2be2?style=for-the-badge&logo=docker&logoColor=white)
 
----
+# ✨ Fun Section
 
-## 🎉 **About Me**  
-- 🌟 Passionate about writing **scalable backend systems** in **Java**.  
-- 💻 Exploring **TypeScript** for its structured coding approach.  
-- 🏃‍♂️ Avid marathon runner—debugging my mind one stride at a time.  
-- 🎵 Music fuels me: **alt-rock** and **hip-hop** keep me inspired.  
-- 🌍 Using tech to address **mental health** and **sustainability** challenges.  
+<div align="center"> 
+  
+_"I write code the way I run: sometimes fast, sometimes wrong, but always going somewhere."_ 
 
----
-
-<div align="center">  
-
-[![](https://visitcount.itsvg.in/api?id=kaloyankerr&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kaloyankerr&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
